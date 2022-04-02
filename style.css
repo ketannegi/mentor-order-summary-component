@@ -116,21 +116,21 @@ footer a {
 }
 @media screen and (max-width: 376px) {
   body {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   div#container {
     position: relative;
-    max-width: 300px;
+    max-width: 250px;
   }
 
   .img-content {
     background-image: url(./images/illustration-hero.svg);
-    max-width: 300px;
+    max-width: 250px;
   }
 
   .body-content {
-    max-width: 300px;
+    max-width: 250px;
     padding-top: 20px;
 
     display: flex;

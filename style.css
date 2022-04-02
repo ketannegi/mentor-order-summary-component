@@ -27,7 +27,7 @@ div#container {
 }
 
 .img-content {
-  background-image: url(/images/illustration-hero.svg);
+  background-image: url(./images/illustration-hero.svg);
   width: 400px;
   border-radius: 10px 10px 0 0;
   height: 25vh;

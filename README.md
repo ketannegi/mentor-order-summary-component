@@ -52,7 +52,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Ketan_2000]()
+- Website - [Ketan_2000](https://github.com/ketannegi/mentor-order-summary-component.git)
 - Frontend Mentor - [@ketannegi](https://www.frontendmentor.io/profile/ketannegi)
 
 ## Acknowledgments

@@ -111,7 +111,7 @@ footer a {
 
 @media screen and (max-width: 500px) {
   body {
-    background-image: url(/images/pattern-background-mobile.svg);
+    background-image: url(./images/pattern-background-mobile.svg);
   }
 }
 @media screen and (max-width: 376px) {
@@ -125,7 +125,7 @@ footer a {
   }
 
   .img-content {
-    background-image: url(/images/illustration-hero.svg);
+    background-image: url(./images/illustration-hero.svg);
     max-width: 300px;
   }
 

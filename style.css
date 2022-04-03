@@ -8,7 +8,7 @@
 body {
   font-family: "roboto mono", sans-serif;
   min-height: 100vh;
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(./images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-color: hsl(225, 100%, 94%);
@@ -27,7 +27,7 @@ div#container {
 }
 
 .img-content {
-  background-image: url(/images/illustration-hero.svg);
+  background-image: url(./images/illustration-hero.svg);
   background-size: cover;
   max-width: 100%;
   border-radius: 10px 10px 0 0;
@@ -112,7 +112,7 @@ footer a {
 @media screen and (max-width: 500px) and (min-width: 400px) {
   body {
     background-color: black;
-    background-image: url(/images/pattern-background-mobile.svg);
+    background-image: url(./images/pattern-background-mobile.svg);
   }
 }
 @media screen and (max-width: 375px) {
@@ -127,7 +127,7 @@ footer a {
   }
 
   .img-content {
-    background-image: url(/images/illustration-hero.svg);
+    background-image: url(./images/illustration-hero.svg);
     min-width: 250px;
   }
 
@@ -140,5 +140,15 @@ footer a {
     align-items: center;
     background-color: hsl(225, 100%, 98%);
   }
+  footer {
+    font-size: 8px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  footer a {
+    text-decoration: none;
+  }
 }
+
 
